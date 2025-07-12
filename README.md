@@ -1,5 +1,5 @@
-A "game" that you can find the sortest path between 2 nodes using the Dijkstra searching algorithm.
-Keybinds:
+A "game" that you can find the sortest path between 2 nodes using the Dijkstra searching algorithm. \n
+Keybinds: \n
 C: Draw wall/s
 X: Delete wall/s
 Z: Set end node
